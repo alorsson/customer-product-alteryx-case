@@ -67,9 +67,4 @@ Alteryx Cloud | Data Pipeline Automation | Spatial Tools | Customer Segmentation
 
 ---
 
-## 📎 Screenshots & CSV Snapshots
-Visuals from final outputs and intermediate steps.
-
----
-
 <sub>📘 *Note: This project was completed as a learning case study to practice Alteryx Designer workflows and business analytics skills.*</sub>

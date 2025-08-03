@@ -47,6 +47,7 @@ The analysis synthesizes three core views:
 ---
 
 ## 📁 Repo Structure
+```
 customer-product-alteryx-case/
 ├── screenshots/
 │   ├── output1_summary.png
@@ -55,6 +56,7 @@ customer-product-alteryx-case/
 ├── README.md
 └── notes/
     └── executive_summary.md
+```
 
 ---
 

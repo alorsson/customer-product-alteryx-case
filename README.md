@@ -5,6 +5,8 @@ This repository documents a consulting-style analytics case project developed us
 🔗 **Interactive Workflow**:  
 [Access in Alteryx Cloud (with annotations)](https://us1.alteryxcloud.com/designer/workflows/01JRZVPBTS4BANDCRARASKN4ZJ)
 
+🖼️ **Workflow Overview**:  
+![Alteryx Workflow Overview](screenshots/workflow_full_view.png)
 ---
 
 ## 📌 Executive Summary
